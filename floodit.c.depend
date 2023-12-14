@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667756627 source:c:\users\loune\onedrive\bureau\code\floodit.c\main.c
+	<stdlib.h>
+	<stdio.h>
+
